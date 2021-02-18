@@ -1,7 +1,7 @@
 {
-    "name": "loancalculator",
-    "owner": "compliancedb",
-    "description": "The loan calculator application",
+    "name": "havardeloancalculator",
+    "owner": "havarde",
+    "description": "The Haavard loan calculator application",
     "visibility": "private",
     "template": [
         "artifact",
